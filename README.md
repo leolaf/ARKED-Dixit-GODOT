@@ -1,7 +1,7 @@
 # ARKED-Dixit-GODOT
 ARKED-Dixit, mais pour Godot &lt;3
 <br>
-Projet de numérisation du jeu Dixit dans le cadre d'un projet de troisème année de licence à l'université Savoie Mont Blanc
+Projet de numérisation du jeu Dixit dans le cadre d'un projet de troisème année de licence à l'Université Savoie Mont Blanc.
 <br>
 Réalisé par : Bajt Arthur, Cortinovis Enzo, Dalban Théo, Laffont Léo, Lacerenza Loris
 
